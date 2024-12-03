@@ -83,6 +83,7 @@ int main(){
 */
 
 //Multiplication table
+
 /*
 int main(){
     
@@ -95,3 +96,4 @@ int main(){
     return 0;
 }
 */
+
